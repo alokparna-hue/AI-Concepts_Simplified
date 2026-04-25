@@ -14,7 +14,7 @@ Tokens are the chunks of text that are exchanged during every AI interaction. An
 | Different AI models follow different tokenization rules. |
 
 
-## Examples
+## An Example
 
 _The following is an illustrative example of how models break down words into tokens._
 
