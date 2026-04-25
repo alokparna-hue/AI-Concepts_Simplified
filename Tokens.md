@@ -20,9 +20,9 @@ _The following is an illustrative example of how models break down words into to
 
 Statement: Betelguese is a dying star. 
 
-Token break down (illustrative):
+Token break-down (illustrative):
 
-| Word | Token |
+| Text | Token |
 --- | --- |
 | Betel | Token 1 |
 | guese | Token 2 |
@@ -33,4 +33,8 @@ Token break down (illustrative):
 
 | Note |
 --- |
-Words such as _Betelguese_ are often treated as two separate tokens.
+Texts such as _Betelguese_ are often treated as two separate tokens.
+
+## Why tokens matter?
+
+Every AI model processes a limited number of tokens per interaction. The higher the number of tokens used and generated, the higher the usage cost and latency. Longer or irrelevant inputs may dilute the context or increase hallucinations. The key is to use relevant and concise tokens to generate the desired responses.
