@@ -3,7 +3,7 @@
 This document explains tokens in the context of Artificial Intelligence (AI).
 
 
-## What are tokens?
+## What are Tokens?
 
 Tokens are the chunks of text that are exchanged during every AI interaction. An AI model processes user inputs numerically. Depending on the tokenization rules, the model breaks each piece of text into tokens.
 
@@ -35,6 +35,6 @@ Token break-down (illustrative):
 --- |
 Texts such as _Betelguese_ are often treated as two separate tokens.
 
-## Why tokens matter?
+## Why Tokens Matter?
 
 Every AI model processes a limited number of tokens per interaction. The higher the number of tokens used and generated, the higher the usage cost and latency. Longer or irrelevant inputs may dilute the context or increase hallucinations. The key is to use relevant and concise tokens to generate the desired responses.
