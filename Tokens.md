@@ -13,6 +13,9 @@ Tokens are the chunks of text that are exchanged during every AI interaction. An
 --- |
 | Different AI models follow different tokenization rules. |
 
+## Why Tokens Matter?
+
+Every AI model processes a limited number of tokens per interaction. The higher the number of tokens used and generated, the higher the usage cost and latency. Longer or irrelevant inputs may dilute the context or increase hallucinations. The key is to use relevant and concise tokens to generate the desired responses.
 
 ## An Example
 
@@ -34,7 +37,3 @@ Token break-down (illustrative):
 | Note |
 --- |
 Texts such as _Betelguese_ are often treated as two separate tokens.
-
-## Why Tokens Matter?
-
-Every AI model processes a limited number of tokens per interaction. The higher the number of tokens used and generated, the higher the usage cost and latency. Longer or irrelevant inputs may dilute the context or increase hallucinations. The key is to use relevant and concise tokens to generate the desired responses.
