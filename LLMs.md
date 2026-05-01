@@ -4,7 +4,7 @@ This document explains Large Language Models (LLMs) with examples.
 
 ## What are LLMs
 
-LLMs are AI systems that are trained on **vast datasets**, which enable the models to interpret natural language and generate responses accordingly.
+LLMs are AI systems that are built on neural networks and trained on **vast datasets**, which enable the models to interpret natural language and generate responses.
 
 ## Why are LLMs Important?
 
