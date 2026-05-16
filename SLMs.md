@@ -6,7 +6,7 @@ This document explains Small Language Models (SLMs) with examples.
 
 SLMs are AI systems that are designed to perform specialized tasks. They use fewer parameters and lighter architecture, making them easier to deploy and run.
 
-## Why are SLMs important?
+## Why are SLMs Important?
 
 - SLMs use **fewer parameters** and reduce **latency** while generating responses. 
 - They can also run **on-device**, while reducing training or maintanence costs of the models.
