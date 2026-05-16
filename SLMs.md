@@ -22,5 +22,5 @@ SLMs are AI systems that are designed to perform specialized tasks. They use few
 
 ## Example of SLMs
 
-- A SLM trained on ABC company's internal processes and designed to resolve employee queries and assist with regular tasks
-- A SLM trained on XYZ bank's customer-facing initiatives and processes and designed to provide 24/7 query resolution
+- A SLM trained on ABC company's internal processes and designed to resolve employee queries and assist with regular tasks.
+- A SLM trained on XYZ bank's customer-facing initiatives and processes and designed to provide 24/7 query resolution.
