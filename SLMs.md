@@ -8,8 +8,9 @@ SLMs are AI systems that are designed to perform specialized tasks. They use few
 
 ## Why are SLMs important?
 
-SLMs use **fewer parameters** and reduce **latency** while generating responses. 
-They can also run **on-device**, while reducing training or maintanence costs of the models.
+- SLMs use **fewer parameters** and reduce **latency** while generating responses. 
+- They can also run **on-device**, while reducing training or maintanence costs of the models.
+- SLMs can be **fine-tuned** to better suit each requirement.
 
 ## LLMs and SLMs: A Comparison
 
