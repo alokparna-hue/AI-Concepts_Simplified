@@ -14,8 +14,11 @@ SLMs are AI systems that are designed to perform specialized tasks. They use few
 
 ## LLMs and SLMs: A Comparison
 
-
-
+| LLM | SLM |
+--- | --- |
+| Trained on vast datasets | Trained on specific datasets for taiilored use |
+| Uses a large number of parameters while processing data | Uses fewer parameters while processing data |
+| Can increase latency during response generation  | Can reduce latency during response generation |
 
 ## Example of SLMs
 
